@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: 1px;
+    background-color: #bdeff7;
+}
+#principal{
+    text-align: center;
+}
+.secundario{
+    text-align: center;
+}
+img{
+max-width: 100px;
+}
+
+
